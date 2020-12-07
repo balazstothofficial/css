@@ -1,3 +1,7 @@
 fun main() {
-    println("Hello World!")
+
+    val text = readArticles()
+
+    println(text)
 }
+
