@@ -1,7 +1,6 @@
 fun main() {
+    val result = calculateAverageSentiment()
 
-    val text = readArticles()
-
-    println(text)
+    println(result)
 }
 
