@@ -1,0 +1,18 @@
+http://www.sueddeutsche.de/digital/usa-fbi-entdeckt-hackerangriff-auf-waehlerregister-1.3141323
+USA
+FBI entdeckt Hackerangriff auf Wählerregister
+Zwei US-Bundesstaaten sind betroffen. Vor der Wahl sorgen sich die USA um die digitale Sicherheit ihrer Wahlsysteme.
+Von Johannes Kuhn, New Orleans
+Die vertrauliche Warnung stammt vom 18. August und besitzt durchaus Brisanz: Die US-Bundespolizei FBI hat Hackerangriffe auf Wählerverzeichnisse in zwei US-Bundesstaaten identifiziert. Dies berichten mehrere Medien.
+Yahoo News , das zuerst von der Warnung berichtete hatte , nannte unter Berufung auf Insider Einzelheiten: In Illinois seien die persönlichen Daten von bis zu 200 000 Wählern gestohlen und in Arizona eine Schadsoftware in das System eingeschleust worden. Das deckt sich mit einigen Berichten von Mitte Juli und Ende Juni , in denen von Angriffen und einer Abschaltung der entsprechenden Seiten die Rede war.
+Bestimmte Informationen aus dem Wählerregister sind ohnehin für die Öffentlichkeit einsehbar , allerdings in der Regel nicht online. Wahlkampf-Teams von Politikern kaufen die Datensätze häufig für Wahlspenden-Aufrufe oder zur Mobilisierung.
+Unklar ist im aktuellen Fall, woher die mutmaßlichen Hacker stammen. Indizien deuten auf russische Urheber hin , doch die Ermittlungen der IT-Sicherheitsfirmen befinden sich noch in der Anfangsphase. Das FBI geht laut Yahoo von ausländischen Angreifern aus. Amerikanische Behörden und Sicherheitsexperten machten Angreifer aus Russland bereits für einen Cyberangriff auf Computersysteme der Demokraten verantwortlich. Die Regierung in Moskau hat die Vorwürfe zurückgewiesen.
+Das Motiv muss theoretisch nicht politisch sein, da große Datensätze mit persönlichen Informationen auch finanziellen Wert haben, vor allem, wenn sie die Sozialversicherungsnummer enthalten.
+Schon vergangenes Jahr tauchten Wählerlisten auf
+Die Präsidenten- und Kongresswahl in den USA wird von den einzelnen Bundesstaaten organisiert. Ende vergangenen Jahres waren 191 Millionen Wählernamen mit Adresse online aufgetaucht, die Hintergründe sind nicht geklärt. In Kalifornien, wo die Verwaltung bei den Kommunen liegt, hatten Angreifer einem Bericht zufolge in einem Bezirk vor den Vorwahlen die Parteizugehörigkeit von Wählern geändert . Eine solche Manipulation der Datensätze gehört zu den Albtraum-Szenarien.
+Die Sicherheit von Datenbanken sind vor den Wahlen im November jedoch nicht die einzige Sorge. Umstritten ist der Einsatz veralteter elektronischer Wahlmaschinen . Georgia, Delaware, Louisiana, South Carolina und New Jersey verwenden Geräte, die nach der Stimmabgabe keinen "Papierbeleg" ausdrucken und damit Ergebnisse nur schwer nachprüfbar machen.
+Die Washington Post berichtet von zwei weiteren US-Bundesstaaten, die mögliche Datenbank-Einbrüche untersuchten. Vor einigen Tagen bot US-Heimatschutzminister Jeh Johnson den Wahlbehörden der Staaten Hilfe bei der Sicherung ihrer Systeme an, erklärte aber gleichzeitig, dass es derzeit keine ernstzunehmenden Bedrohungen hinsichtlich der Wahl im November gebe.
+Alleine der Eindruck, dass ein Land oder eine Gruppe das Wahlergebnis digital beeinflussen könnte, kann allerdings einen massiven Vertrauensverlust bedeuten.
+Donald Trump hat bereits wiederholt vor Manipulationen zu seinen Ungunsten gewarnt, ohne dafür jedoch Belege oder Details zu nennen. Im umkämpften Bundesstaat Pennsylvania sei er nicht ohne Wahlbetrug besiegbar, erklärte der republikanische Präsidentschaftskandidat .
+Mit Material von Reuters.
+SZ.de

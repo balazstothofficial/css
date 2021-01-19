@@ -1,0 +1,2 @@
+# Add diff of docx files.
+*.docx diff=word

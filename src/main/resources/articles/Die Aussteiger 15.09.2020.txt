@@ -1,0 +1,67 @@
+Die Aussteiger
+Tristan Harris und Roger McNamee kritisieren die Technologie, die sie selbst mitgeschaffen
+haben. Ein Gespräch über Verhaltensmanipulationen, Einsamkeit und Verantwortung
+Technologiedebatte  Im Interview und im Film – Schlüsselfiguren des Silicon Valley warnen vor ihren Produkten
+INTERVIEW: JANNIS BRÜHL
+Die Debatte um die Probleme, die digitale Technologien mit sich bringen, nahm vor einigen Jahren erst dann richtig Fahrt auf, als Aussteiger aus der digitalen Industrie begannen, vor ihren eigenen Produkten zu warnen. Zwei dieser Rebellen des Silicon Valley sind Schlüsselfiguren im Dokumentarfilm „Das Dilemma mit den sozialen Medien“. Einige Zeit vor dem Filmstart auf Netflix waren sie bei der Münchner Digitalkonferenz DLD zu Gast, um ihre Thesen zu vertreten. Tristan Harris studierte in Stanford, wie Digitaltechnik das Verhalten ihrer Nutzer manipulieren kann. In seinem Job bei Google bekam er ein schlechtes Gewissen. Roger McNamee wurde mit Investitionen in Tech-Firmen reich. Früh investierte er in Facebook und beriet den jungen Mark Zuckerberg. Nach dem US-Wahlkampf 2016 wurde er zum Tech-Kritiker.
+SZ: Mit welchen Tricks halten die Unternehmen uns vor den Bildschirmen?
+Tristan Harris: Es ist das Belohnungssystem eines Glücksspielautomaten: Das unendliche Scrollen, die Benachrichtigungen, die soziale Manipulation mit dem Gefühl, Ihre Freunde warten auf Sie oder haben irgendwas kommentiert. Es ist schwer, diesen Features zu widerstehen. Nehmen sie die Comeback-E-Mail: Sie haben einen Dienst länger nicht benutzt, dann bekommen sie mehr Mails von ihm. Wie ein Dealer, der sagt: „Oh, Sie benutzen das Zeug nicht so oft, ich melde mich deshalb öfter und werde immer aggressiver.“
+Bei Ihren Auftritten reden Sie über Vertrauen. Was hat das mit der Sache zu tun?
+Harris: Unser Vertrauen in Informationen kollabiert. Das ist viel wichtiger als die Frage nach Farben und Benachrichtigungen auf unseren Handys.
+  Roger McNamee: Die Technologie wird ausgeklügelter, die Unternehmen stoßen in wertvollere Gebiete vor. Google baut Smart Cities und Verkehrstechnik, Amazon sprachgesteuerte Geräte – die uns überwachen –, und Gesundheits-Software. Mit all diesen Daten werden sie Ihr Verhalten manipulieren.
+  Harris: Wenn Sie nicht für das Produkt bezahlen, sind Sie selbst das Produkt. „Gratis“ ist das teuerste Geschäftsmodell.
+Die Algorithmen der Plattformen schaden angeblich der Demokratie. Wieso? Algorithmen sind doch erst einmal nur Rechenoperationen.
+McNamee: Die Verstärkung durch Algorithmen verursacht das Problem. Sie propagieren die Inhalte, die die stärksten Reaktionen hervorrufen: Hass, Desinformation, Verschwörungstheorien. Nicht weil Facebook sie gezielt aussucht, sondern weil der Algorithmus nach allem sucht, was Reaktionen auslöst.
+  Harris: Videos von Verschwörungstheoretikern wie Alex Jones wurden öfter empfohlen als alle seriösen Nachrichtenseiten zusammen. Das ist einfach lächerlich.
+Die Konzerne haben aber auf Ihre Kritik reagiert. Facebook und Youtube haben Kriterien geändert, nach der ihre Algorithmen sortieren.
+Harris: Schadensbegrenzung. Die Gesellschaft wurde ja schon sechs Jahre in Hass und Verschwörungstheorien mariniert. Schauen Sie sich um: Alle spielen verrückt.
+Mister Harris, nachdem Sie bei Google intern Bedenken über die Technologie geäußert hatten, wurde die Stelle des
+„Design-Ethikers“ für Sie geschaffen. Hat sich nichts geändert?
+Harris: Die Maschine tut weiter, was sie tun muss. Aber es ist nicht so, dass die Menschen dahinter böse sind.
+Wissen die Firmenchefs nicht, was sie da tun?
+Harris: Sie sind wie Geiseln in einem Video von Geiselnehmern, reden sinnloses Zeug. Denn außerhalb der Kamera steht jemand mit einer Waffe und zielt auf ihren Kopf. Die Waffe ist das Geschäftsmodell. Deshalb kann nur Druck von außen diesen Kapitalismus der Überwachung unserer Aufmerksamkeit beenden.
+Mister McNamee, Sie berieten einst Mark Zuckerberg. Wie sieht er die Welt?
+McNamee: Zunächst: Ich stimme Tristan nicht zu. Ich glaube, diese Leute sind im Herzen Ingenieure. Sie glauben an Effizienz und Optimierung. Das klappt gut für ein kleines System wie einen Motor. Aber nicht, wenn man diese Prinzipien auf die ganze Gesellschaft anwendet. Mark oder die Google-Gründer identifizieren sich wirklich mit ihren Missionen: Google führt alle Informationen der Welt zusammen, Facebook alle Menschen in einem Netzwerk. Aber sie sehen es ausschließlich unter Effizienz-Gesichtspunkten. Das ist gefährlich, weil Effizienz Reibung beseitigen soll. Dabei ist Reibung die Essenz von Expertise, Kunst, Wissenschaft – ja, Fortpflanzung! Wenn jeder von uns seine eigenen Entscheidungen trifft, ist das ineffizient. Viel effizienter ist, dass ein Algorithmus entscheidet.
+Wie ein Diktator?
+McNamee: Ja, es hat etwas Autoritäres. Sie versuchen etwa in Smart Cities buchstäblich, Demokratie durch Algorithmen zu ersetzen. Es sind keine schlechten Menschen, aber ihr Wertesystem ist anders.
+  Harris: Ihr Wertesystem ist inkompatibel mit der Wahrheit, und die braucht eine stabile Gesellschaft.
+Konkret: Sie treten für eine „humane“ Technologie ein. Wie kann die aussehen?
+McNamee: Man müsste algorithmische Verstärkung abschaffen. Nachrichten-Feeds wieder nach Thema und Veröffentlichungszeitpunkt sortieren, sodass sie einem nicht ihre Standpunkte aufdrängen. Dann sind die Leute zwar immer noch süchtig, aber sie bekommen weniger Gift ab.
+  Harris: Wirklich humane Technik würde verstehen, wie verletzlich Menschen sind. Erkennen, wenn Sie einsam sind. Denn überlastete Geister sind anfällig. Endlos scrollbare Apps nutzen das aus. Deep Fakes – von Algorithmen manipulierte Videos – tricksen uns aus, bis wir wahr und falsch nicht mehr unterscheiden können. Um das zu verhindern, muss man buchstäblich unser System hacken, Verwundbarkeiten finden und schließen.
+Was für Apps kämen dabei heraus?
+Harris: Smartphone-Technik, die Erfahrungen von Angesicht zu Angesicht priorisiert. Ein GPS, das einen an Orte mit Menschen bringt, und so viele menschliche Ausdrucksformen wie möglich nutzt: Anrufe vor Textnachrichten, echte Treffen vor Tinder-Gewische über bearbeitete Gesichtsfotos. Mit Menschen zusammenzukommen, die einem etwas bedeuten, sollte so einfach sein wie Wikipedia zu nutzen.
+  McNamee: Das Gegenteil des Systems, das wir heute haben.
+  Harris: Facebook ist in der besten Position, etwas zu ändern. Sie wissen genau, dass alle gleichzeitig einsam sind.
+Aber das ist genau, was Zuckerberg verspricht: Menschen zusammenzubringen.
+Harris: Was er nicht mal ansatzweise tut. 2005 war Facebook nur ein Adressbuch. Er könnte das Netzwerk wieder zu einem einfachen Werkzeug machen, das die Gesellschaft stärkt. Stattdessen wird unsere Aufmerksamkeit abgesaugt. Dieses Modell kombiniert Sucht, Wut und Hass.
+Aber wären neue Apps nicht nur weitere Formen der Manipulation, wie die Tricks, die Sie damals im Verhaltenslabor in Stanford studiert haben?
+Harris: Es gibt kein Nicht-Beeinflussen der Psyche. Sie beeinflussen gerade meinen Geist, und ich Ihren. Aber diese philosophische Diskussion könnten wir noch Jahre führen, während die Demokratie um uns herum zusammenbricht. Deshalb möchte ich mich nicht auf das persönliche Nutzungsverhalten konzentrieren.
+  McNamee: Der Zug ist abgefahren.
+  Harris: Viele Amerikaner glauben, „Chemtrails“ aus Flugzeugen verursachen den Klimawandel. Das zeigt, dass sich unsere Fähigkeit auflöst, uns auf Fakten zu einigen. Viele wählen Politiker auf Basis von Illusionen, impfen ihre Kinder nicht mehr. Dieses System hat uns radikalisiert. Ich versuche, den Menschen zu zeigen, dass das ein künstlicher Prozess über Jahre war, damit sie aus der Matrix ausbrechen können.
+Und wenn die Leute sagen: „Ich mag mein Facebook, wie es ist. Warum soll es aussehen, wie Tristan Harris es sich vorstellt?“
+Harris: Ob Rauchen oder Zucker, wenn Sie jemandem sagen, dass etwas schlecht für ihn ist, wird er sein Verhalten nicht ändern. Ich will den Leuten zeigen, dass bestimmte Dinge aus Marketingdokumenten stammen, von Werbeabteilungen erdacht wurden. Niemand will sich manipuliert fühlen.
+Wie haben die Technik-Jünger in Kalifornien auf Ihre Ideen reagiert?
+Harris: Man könnte meinen, dass uns viele in der Branche hassen. Aber es herrscht viel Respekt. Im Innern der Konzerne gibt es viele, die denken wie wir. Sie kommen zu unseren Treffen, weil sie glauben, dass wir die richtigen Probleme ansprechen.
+Nun läuft Ihre Kampagne seit mehr als drei Jahren. Apple zeigt heute an, wie oft man sein Handy benutzt hat. Zuckerberg hat Ihr Motto „time well spent“ wörtlich übernommen …
+Harris: Das größte Problem bleibt: Facebook ist eine Maschine, die die Demokratie tötet. Und dagegen tut der Konzern nichts, es ist ja sein Geschäftsmodell. Er müsste den Nachrichten-Feed oder die Werbung für längere Zeit abschalten, zumindest während Wahlkämpfen.
+Aber die Demokratie lebt doch noch.
+McNamee: Das wunderbare an Kontinentaleuropa ist, dass seine politischen Institutionen stark genug sind, allen scharfen Attacken zum Trotz. Die AfD hatte 85 Prozent der Anteile an „Shares“ auf Facebook, aber nur zwölf Prozent der Wählerstimmen. In den USA, Großbritannien, Brasilien und Indien hat die Technik aber den Ausgang von Wahlen beeinflusst.
+Müssten neue Regeln in den USA oder der EU her, oder besser eine globale Lösung?
+McNamee: Sehen Sie sich den ganzen Nonsens an, all die Business-Pläne mit angeblich garantiert guten Ergebnissen. Dabei zeigt das Beispiel Gesichtserkennung, dass es oft gar keinen unproblematischen Anwendungsfall gibt. Gesichtserkennung wenigstens fünf Jahre lang zu verbieten, wie die EU es zwischenzeitlich diskutiert hat, wäre fantastisch. Informationstechnologie ist wie das Bauwesen im 17. Jahrhundert, nachdem Städte aus Holz abgebrannt waren: Es mussten breitere Straßen und Häuser aus Stein her. Im 19. Jahrhundert wurde geregelt, dass Medikamente nicht verunreinigt sein dürfen. In den Siebzigern, dass kein Quecksilber ins Wasser gekippt werden darf. Solche Dinge sind zu gefährlich, um sie unreguliert zu lassen.
+Mister McNamee, haben Sie noch Facebook-Aktien?
+McNamee: Nein. Ich wollte lange nicht verkaufen, weil ich dachte: Wenn mein Aktivismus den Aktienpreis nach unten treibt, sollte ich mit allen anderen leiden. Allerdings wurde dann klar, dass ich gar keinen Einfluss auf den Kurs habe.
+Sie haben einen „hippokratischen Eid“ für Programmierer ins Spiel gebracht. Was meinen Sie damit?
+McNamee: „Übernimm die Verantwortung“. Ein Bauingenieur kann zur Verantwortung gezogen werden, wenn ein Gebäude einstürzt. Programmierer gehen kein persönliches Risiko ein.
+  Harris: Es sollte sein wie bei den Programmierern von Boeing: Die mussten auf dem Jungfernflug des Flugzeugs, für das sie die Software geschrieben hatten, mitfliegen.
+„Dieses Modell
+kombiniert
+Sucht, Wut
+und Hass.“
+„Facebook
+ist eine Maschine,
+die die Demokratie
+tötet.“
+Szenenbild aus der Netflix-Doku über soziale Medien: Kommunikation oder Verhaltensmanipulation? Tristan Harris’ Kritik löste den „Techlash“ aus, die globale Skepsis an der digitalen Welt.
+Foto: Netflix / AP
+Tristan Harris, 35, studierte Informatik und Verhaltenspsychologie in Stanford. Nach seinem Ausstieg bei Google 2015 gründete er die gemeinnützigen Vereine „Time Well Spent“ und „Center for Humane Technology“. Foto: AP
+Roger McNamee, 64, ist Investor, der schon 1989 einen Science & Technology Fund für T. Rowe Price aufbaute. Mit seinen eigenen Fonds investierte er in Firmen wie Facebook. Er ist Vertrauter von Mark Zuckerberg und Bill Gates. Foto: AFP
